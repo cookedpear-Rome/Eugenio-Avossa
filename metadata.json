@@ -1,0 +1,7 @@
+{
+  "name": "AI Text Remover & Image Editor",
+  "description": "A high-performance image editing tool powered by Gemini 2.5 Flash Image. Effortlessly remove text or objects from your photos while maintaining seamless backgrounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
